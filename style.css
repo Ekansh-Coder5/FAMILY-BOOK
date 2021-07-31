@@ -1,0 +1,18 @@
+body {
+  text-align:center;
+
+}
+#Food {
+  font-size:30px;
+}
+#Cloth {
+  font-size:30px;
+}
+#Water2 {
+  width:400px;
+  height:400px;
+}
+#Next {
+  background-color:cyan;
+  border-bottom-color:blue;
+}
